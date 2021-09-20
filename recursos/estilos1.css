@@ -1,0 +1,39 @@
+.navbar-color {
+    background-color: #A0CDE2;
+
+}
+
+.spa {
+    margin-left: 64px;
+}
+
+.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+div a:hover {
+    /*border-top: 4px solid white;*/
+    color: #5979d4;
+    border-bottom: 4px solid white;
+    padding: 6px 0;
+}
+
+.img-responsive {
+    width: 200px;
+    height: 100px;
+    float: right;
+    margin-right: 10px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    margin: 0;
+}
+
+
+span{
+    font-size: 24px;
+}
