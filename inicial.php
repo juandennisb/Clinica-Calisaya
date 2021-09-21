@@ -33,7 +33,7 @@
                         <li class="nav-item"><a class="nav-link js-scroll-trigger btn btn-info" href="#about">Historia</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger btn btn-info" href="#team">Equipo</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger btn btn-info" href="#contact">Contacto</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger btn btn-danger" href="#">Login </a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger btn btn-danger" href="login.php">Login </a></li>
                     </ul>
                 </div>
             </div>
@@ -43,7 +43,7 @@
             <div class="container">
                 <div class="masthead-subheading">Bienvenido a la clinica </div>
                 <div class="masthead-heading text-uppercase">Calizaya</div>
-                <a class="btn btn-success btn-xl text-uppercase js-scroll-trigger" href="#">Reserva tu registro</a>
+                <a class="btn btn-success btn-xl text-uppercase js-scroll-trigger" href="">Reserva tu registro</a>
             </div>
         </header>
         <!-- Services-->
