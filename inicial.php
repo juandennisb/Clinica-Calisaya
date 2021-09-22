@@ -43,7 +43,7 @@
             <div class="container">
                 <div class="masthead-subheading">Bienvenido a la clinica </div>
                 <div class="masthead-heading text-uppercase">Calizaya</div>
-                <a class="btn btn-success btn-xl text-uppercase js-scroll-trigger" href="">Reserva tu registro</a>
+                <a class="btn btn-success btn-xl text-uppercase js-scroll-trigger" href="RegistraReserva.php">Reserva tu registro</a>
             </div>
         </header>
         <!-- Services-->
