@@ -1,5 +1,5 @@
 <?php session_start();
-
+    # Este pagina es de login
     if(isset($_SESSION['usuario'])) {
         header('location: index.php');
     }
