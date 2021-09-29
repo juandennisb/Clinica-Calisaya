@@ -39,16 +39,7 @@
             
         }
         
-        if ($error == ''){
-            $statement = $conexion->prepare('INSERT INTO historial (id, codigo, nombre, carnet, tratamiento) VALUES (null, :codigo, :nombre, :carnet, :tratamiento)');
-            $statement->execute(array(
-                
-                ':codigo' => $codigo,
-                ':nombre' => $nombre,
-                ':carnet' => $carnet,
-                ':tratamiento' => $tratamiento
-                
-            ));
+       
             
             $error .= '<i style="color: white;">Historial registrado exitosamente</i>';
         }
